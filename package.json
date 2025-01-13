@@ -1,0 +1,16 @@
+{
+  "name": "fithom-labs-sdk",
+  "version": "1.0.0",
+  "description": "Fithom Labs SDK for decentralized finance on Solana.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "Fithom Labs",
+  "license": "MIT",
+  "dependencies": {
+    "solana-web3.js": "^1.83.0",
+    "axios": "^1.4.0"
+  }
+}

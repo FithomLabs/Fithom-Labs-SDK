@@ -1,7 +1,7 @@
 # Fithom Labs: Transforming Decentralized Finance on Solana
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FithomLabs/Fithom-Labs-SDK/refs/heads/main/docs/logo.png" alt="Fithom Labs Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/FithomLabs/Fithom-Labs-SDK/refs/heads/main/docs/logo-c.png" alt="Fithom Labs Logo" width="200" />
 </p>
 
 Fithom Labs harnesses the power of Solana blockchain to deliver cutting-edge solutions for faster, more efficient financial applications. With a focus on speed, scalability, and eco-conscious innovation, Fithom Labs provides tools and features to empower developers in building next-generation decentralized applications (dApps).
